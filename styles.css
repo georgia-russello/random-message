@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  border: 10px solid pink;
+  background-color: pink;
+  color: white;
+}
+input[type="submit"] {
+  text-align:center;
+  height: 600px;
+  width: 400px;
+  background-color: pink;
+  color: white;
+  font-size: 40px ;
+  font-family: monospace;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  text-align: center;
+}
+.firstSaying {
+  color: white;
+  background: pink;
+  font-family: monospace;
+  font-size: 40px ;
+}
+body {
+  background-image: url(https://pbs.twimg.com/media/DPaea67VAAIZQCu.jpg);
+}
