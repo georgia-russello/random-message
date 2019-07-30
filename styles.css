@@ -24,6 +24,7 @@ input[type="submit"] {
   background: pink;
   font-family: monospace;
   font-size: 40px ;
+  text-align: center; 
 }
 body {
   background-image: url(https://pbs.twimg.com/media/DPaea67VAAIZQCu.jpg);
